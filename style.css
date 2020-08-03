@@ -1,0 +1,45 @@
+body{
+	background-image: url(background.jpg);
+	padding-top: 20vh;
+}
+.login{
+	width: 360px;
+	margin: auto;
+	padding: 40px 30px;
+}
+.log-in{
+	position: relative;
+	z-index: 1;
+	background-color: #fff;
+	max-width: 360px;
+	margin: 0 auto 100px;
+	padding: 25px;
+	text-align: center;
+	box-shadow: 0 0 10px 0 #000;
+	font-family: 'Lobster', cursive;
+	color: #1E90FF;
+	border-radius: 10px;
+}
+.log-in input{
+	text-align: center;
+	outline: 0;
+	background: #f2f2f2;
+	width: 90%;
+	border: 0;
+	margin: 0 0 15px;
+	padding: 15px;
+	outline: 0;
+}
+.log-in button{
+	width: 100%;
+	padding: 10px;
+	font-weight: 700;
+    color: #fff;
+	background-color: #1E90FF;
+	color: #fff
+	font-size:14px;
+	border-radius: 5px; 
+	border: 0;
+	outline: 0;
+	cursor: pointer;
+}
